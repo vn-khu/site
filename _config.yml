@@ -1,5 +1,5 @@
 name: Sampa
-url: http://sampa.cs.washington.edu
+url: https://vn-khu.github.io/site
 
 exclude: [bibble, README.md, Makefile, Dockerfile]
 
