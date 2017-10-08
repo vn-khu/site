@@ -12,7 +12,6 @@ _site/index.html _site/wacas14/index.html:
 _includes/pubs.html: bib/sampa-pubs.bib bib/publications.tmpl
 	git submodule init; git submodule update
 	mkdir -p _includes
-	$(PYTHON) bibble/bibble.py $+ > $@
 
 _site/index.html: $(wildcard *.html) _includes/pubs.html _config.yml \
 	_layouts/default.html
