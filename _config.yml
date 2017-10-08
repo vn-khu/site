@@ -1,5 +1,5 @@
 name: Sampa
-url: https://vn-khu.github.io/site/
+url: https://vn-khu.github.io
 
 exclude: [bibble, README.md, Makefile, Dockerfile]
 
