@@ -41,23 +41,12 @@
 
 
 
-  <meta property="og:image" content="http://localhost:4000/avatar.jpg">
 
 
 
 
 
 
-
-
-  <script type="application/ld+json">
-    {
-      "@context": "http://schema.org",
-      "@type": "Organization",
-      "url": "http://localhost:4000",
-      "logo": "http://localhost:4000/avatar.jpg"
-    }
-  </script>
 
 
 
@@ -65,9 +54,9 @@
     {
       "@context" : "http://schema.org",
       "@type" : "Person",
-      "name" : "Le Pham Tuyen",
+      "name" : "VN-KHU",
       "url" : "http://localhost:4000",
-      "sameAs" : ["https://facebook.com/lephamtuyen","https://www.flickr.com/photos/tuyenple"]
+      "sameAs" : ["https://www.facebook.com/groups/vnkhu/"]
     }
   </script>
 
@@ -124,19 +113,13 @@
           <li class="masthead__menu-item masthead__menu-item--lg"><a href="http://localhost:4000/">VN-KHU</a></li>
           
             
-            <li class="masthead__menu-item"><a href="http://localhost:4000/about/">About</a></li>
+            <li class="masthead__menu-item"><a href="http://localhost:4000/">Home</a></li>
           
             
-            <li class="masthead__menu-item"><a href="http://localhost:4000/posts/">Posts</a></li>
+            <li class="masthead__menu-item"><a href="http://localhost:4000/alumni/">Alumni</a></li>
           
             
-            <li class="masthead__menu-item"><a href="http://localhost:4000/galleries/">Galleries</a></li>
-          
-            
-            <li class="masthead__menu-item"><a href="http://localhost:4000/categories/">Categories</a></li>
-          
-            
-            <li class="masthead__menu-item"><a href="http://localhost:4000/tags/">Tags</a></li>
+            <li class="masthead__menu-item"><a href="http://localhost:4000/fields/">Fields</a></li>
           
         </ul>
         <ul class="hidden-links hidden"></ul>
@@ -157,6 +140,12 @@
 <div itemscope itemtype="http://schema.org/Person">
 
   
+    <div class="author__avatar">
+      
+        <img src="http://localhost:4000/assets/images/logo.png" class="author__avatar" alt="" itemprop="image">
+      
+    </div>
+  
 
   <div class="author__content">
     <h3 class="author__name" itemprop="name"></h3>
@@ -167,7 +156,26 @@
     <button class="btn btn--inverse">Follow</button>
     <ul class="author__urls social-icons">
       
+        <li itemprop="homeLocation" itemscope itemtype="http://schema.org/Place">
+          <i class="fa fa-fw fa-map-marker" aria-hidden="true"></i> <span itemprop="name">Suwon, South Korea</span>
+        </li>
+      
 
+      
+        <li>
+          <a href="https://www.facebook.com/groups/vnkhu/" itemprop="url">
+            <i class="fa fa-fw fa-chain" aria-hidden="true"></i> Website
+          </a>
+        </li>
+      
+
+      
+        <li>
+          <a href="mailto:abc@khu.ac.kr">
+            <meta itemprop="email" content="abc@khu.ac.kr" />
+            <i class="fa fa-fw fa-envelope-square" aria-hidden="true"></i> Email
+          </a>
+        </li>
       
 
       
@@ -175,7 +183,11 @@
       
 
       
-
+        <li>
+          <a href="https://www.facebook.com/groups/vnkhu/" itemprop="sameAs">
+            <i class="fa fa-fw fa-facebook-square" aria-hidden="true"></i> Facebook
+          </a>
+        </li>
       
 
       
@@ -334,15 +346,13 @@
     
     
     
-      <li><a href="https://facebook.com/lephamtuyen"><i class="fa fa-fw fa-facebook-square" aria-hidden="true"></i> Facebook</a></li>
-    
     
     
     <li><a href="http://localhost:4000/feed.xml"><i class="fa fa-fw fa-rss-square" aria-hidden="true"></i> Feed</a></li>
   </ul>
 </div>
 
-<div class="page__footer-copyright">&copy; 2017 Le Pham Tuyen.
+<div class="page__footer-copyright">&copy; 2017 VN-KHU.
       </footer>
     </div>
 

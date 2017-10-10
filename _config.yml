@@ -76,36 +76,36 @@ analytics:
     tracking_id          : "UA-89717371-1"
 
 
-# # Site Author
-# author:
-#   name             : *name
-#   avatar           : "/assets/images/avatar.jpg"
-#   bio              : "A PhD Student"
-#   location         : "Suwon, South Korea"
-#   email            : "tuyenple@khu.ac.kr"
-#   uri              : "http://tuyenple.com"
-#   bitbucket        :
-#   codepen          :
-#   dribbble         :
-#   flickr           : "tuyenple"
-#   facebook         : "lephamtuyen"
-#   foursquare       :
-#   github           : "lephamtuyen"
-#   google_plus      :
-#   keybase          :
-#   instagram        :
-#   lastfm           :
-#   linkedin         :
-#   pinterest        :
-#   soundcloud       :
-#   stackoverflow    : # http://stackoverflow.com/users/123456/username
-#   steam            :
-#   tumblr           :
-#   twitter          :
-#   vine             :
-#   weibo            :
-#   xing             :
-#   youtube          :
+# Site Author
+author:
+  name             : #*name
+  avatar           : "/assets/images/logo.png"
+  bio              : #"Chi hội sinh viên Việt Nam tại Kyung Hee"
+  location         : "Suwon, South Korea"
+  email            : "abc@khu.ac.kr"
+  uri              : "https://www.facebook.com/groups/vnkhu/"
+  bitbucket        :
+  codepen          :
+  dribbble         :
+  flickr           :
+  facebook         : "groups/vnkhu/"
+  foursquare       :
+  github           :
+  google_plus      :
+  keybase          :
+  instagram        :
+  lastfm           :
+  linkedin         :
+  pinterest        :
+  soundcloud       :
+  stackoverflow    : 
+  steam            :
+  tumblr           :
+  twitter          :
+  vine             :
+  weibo            :
+  xing             :
+  youtube          :
 
 
 # Reading Files
@@ -167,6 +167,9 @@ collections:
   galleries:
     output: true
     permalink: /:collection/:path/
+  alumni:
+    output: true
+    permalink: /:collection/:path/
 
 # Sass/SCSS
 sass:
@@ -206,17 +209,25 @@ defaults:
       layout: single
       author_profile: true
       read_time: false
-      comments: true
-      share: true
-      related: true
+      comments: false
+      share: false
+      related: false
   # _galleries
   - scope:
       path: ""
       type: galleries
     values:
       layout: single
-      author_profile: false
-      share: true
+      author_profile: true
+      share: false
+  # _alumni
+  - scope:
+      path: ""
+      type: alumni
+    values:
+      layout: single
+      author_profile: true
+      share: false
 
 # Archives
 #  Type
@@ -230,10 +241,12 @@ defaults:
 #  - <base_path/my-awesome-category/index.html ~> path: /
 category_archive:
   type: liquid
-  path: /categories/
-tag_archive:
-  type: liquid
-  path: /tags/
+  path: /fields/
+# tag_archive:
+#   type: liquid
+#   path: /labs/
+
+
 # https://github.com/jekyll/jekyll-archives
 # jekyll-archives:
 #   enabled:

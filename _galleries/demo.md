@@ -1,5 +1,5 @@
 ---
-title: "Time flies"
+title: "Demo"
 header:
   teaser: https://c1.staticflickr.com/3/2848/32935204713_7f8ddd57da_n.jpg
 gallery:
