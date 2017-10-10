@@ -11,7 +11,7 @@ title                    : "VN-KHU"
 title_separator          : "-"
 name                     : &name "VN-KHU"
 description              : &description "Nơi tổng hợp thông tin sinh viên đã từng sinh sống và học tập tại Kyung Hee Univerrsity"
-url                      : "https://vn-khu.github.io/site"  # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : "https://vn-khu.github.io"  # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : 
 teaser                   : #"/assets/images/500x300.png" # path of fallback teaser image, e.g. "/assets/images/500x300.png"
