@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "ᕦ(ò_óˇ)ᕤ"
+title                    : "VN-KHU"
 title_separator          : "-"
-name                     : &name "Le Pham Tuyen"
-description              : &description "A nano blog for sharing something cool to me"
+name                     : &name "VN-KHU"
+description              : &description "Nơi tổng hợp thông tin sinh viên đã từng sinh sống và học tập tại Kyung Hee Univerrsity"
 url                      : "https://vn-khu.github.io/site"  # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : 
@@ -18,9 +18,9 @@ teaser                   : #"/assets/images/500x300.png" # path of fallback teas
 # breadcrumbs              : true # true, false (default)
 words_per_minute         : 200
 comments:
-  provider               : "disqus" # false (default), "disqus", "discourse", "facebook", "google-plus", "staticman", "custom"
+  provider               : # false (default), "disqus", "discourse", "facebook", "google-plus", "staticman", "custom"
   disqus:
-    shortname            : "tuyenple"
+    shortname            : "vn-khu"
   discourse:
     server               : # https://meta.discourse.org/t/embedding-discourse-comments-via-javascript/31963 , e.g.: meta.discourse.org
   facebook:
@@ -57,18 +57,17 @@ yandex_site_verification :
 twitter:
   username               :
 facebook:
-  username               : &facebook "lephamtuyen"
+  username               :
   app_id                 :
   publisher              :
-og_image                 : "avatar.jpg" # Open Graph/Twitter default site image
+og_image                 :
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
   type                   : # Person or Organization (defaults to Person)
   name                   : # If the user or organization name differs from the site's name
   links: # An array of links to social media profiles
-    - "https://facebook.com/lephamtuyen"
-    - "https://www.flickr.com/photos/tuyenple"
+    - "https://www.facebook.com/groups/vnkhu/"
 
 # Analytics
 analytics:
@@ -77,36 +76,36 @@ analytics:
     tracking_id          : "UA-89717371-1"
 
 
-# Site Author
-author:
-  name             : *name
-  avatar           : "/assets/images/avatar.jpg"
-  bio              : "A PhD Student"
-  location         : "Suwon, South Korea"
-  email            : "tuyenple@khu.ac.kr"
-  uri              : "http://tuyenple.com"
-  bitbucket        :
-  codepen          :
-  dribbble         :
-  flickr           : "tuyenple"
-  facebook         : "lephamtuyen"
-  foursquare       :
-  github           : "lephamtuyen"
-  google_plus      :
-  keybase          :
-  instagram        :
-  lastfm           :
-  linkedin         :
-  pinterest        :
-  soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
-  steam            :
-  tumblr           :
-  twitter          :
-  vine             :
-  weibo            :
-  xing             :
-  youtube          :
+# # Site Author
+# author:
+#   name             : *name
+#   avatar           : "/assets/images/avatar.jpg"
+#   bio              : "A PhD Student"
+#   location         : "Suwon, South Korea"
+#   email            : "tuyenple@khu.ac.kr"
+#   uri              : "http://tuyenple.com"
+#   bitbucket        :
+#   codepen          :
+#   dribbble         :
+#   flickr           : "tuyenple"
+#   facebook         : "lephamtuyen"
+#   foursquare       :
+#   github           : "lephamtuyen"
+#   google_plus      :
+#   keybase          :
+#   instagram        :
+#   lastfm           :
+#   linkedin         :
+#   pinterest        :
+#   soundcloud       :
+#   stackoverflow    : # http://stackoverflow.com/users/123456/username
+#   steam            :
+#   tumblr           :
+#   twitter          :
+#   vine             :
+#   weibo            :
+#   xing             :
+#   youtube          :
 
 
 # Reading Files
