@@ -10,7 +10,7 @@ categories:
   - Networking
 ---
 <tr> 
-  <td width="185"><img src="/assets/images/prof_hong.jpg" width="152" height="176"></td>
+  <td width="185"><img src="https://c1.staticflickr.com/5/4444/37737750882_97011819ef_o.jpg" width="152" height="176"></td>
       <td valign="top"><b><font color="#000000" size="2">Choong Seon Hong</font><font color="#000000"> &nbsp;&nbsp;
       <img src="../images/members/han.gif" width="69" height="16" align="absmiddle">
       <br>
