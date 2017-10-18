@@ -12,7 +12,6 @@ categories:
 <tr> 
   <td width="185"><img src="https://c1.staticflickr.com/5/4444/37737750882_97011819ef_o.jpg" width="152" height="176"></td>
       <td valign="top"><b><font color="#000000" size="2">Choong Seon Hong</font><font color="#000000"> &nbsp;&nbsp;
-      <img src="../images/members/han.gif" width="69" height="16" align="absmiddle">
       <br>
       <a href="mailto:cshong@khu.ac.kr">cshong@khu.ac.kr</a>
       <br>Tel.+82-31-201-2532 &nbsp;Fax.+82-31-204-9082<br>
