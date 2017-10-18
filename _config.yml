@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "VN-KHU"
 title_separator          : "-"
 name                     : &name "VN-KHU"
-description              : &description "Nơi tổng hợp thông tin sinh viên đã từng sinh sống và học tập tại Kyung Hee Univerrsity"
+description              : &description "Nơi tổng hợp thông tin sinh viên đã từng học tập tại Kyung Hee Suwon"
 url                      : "https://vn-khu.github.io"  # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : 
@@ -82,8 +82,8 @@ author:
   avatar           : "/assets/images/logo.png"
   bio              : #"Chi hội sinh viên Việt Nam tại Kyung Hee"
   location         : "Suwon, South Korea"
-  email            : "abc@khu.ac.kr"
-  uri              : "https://www.facebook.com/groups/vnkhu/"
+  email            : "vnkhu.suwon@gmail.com"
+  uri              : "https://sites.google.com/site/vietnamkhu/"
   bitbucket        :
   codepen          :
   dribbble         :
@@ -170,6 +170,9 @@ collections:
   alumni:
     output: true
     permalink: /:collection/:path/
+  labs:
+    output: true
+    permalink: /:collection/:path/
 
 # Sass/SCSS
 sass:
@@ -224,6 +227,14 @@ defaults:
   - scope:
       path: ""
       type: alumni
+    values:
+      layout: single
+      author_profile: true
+      share: false
+  # _labs
+  - scope:
+      path: ""
+      type: labs
     values:
       layout: single
       author_profile: true

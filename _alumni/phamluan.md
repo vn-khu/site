@@ -1,6 +1,6 @@
 ---
-title: "Pham Van Luan"
-excerpt: "2014-? PhD Student"
+title: "Phạm Văn Luân"
+excerpt: "PhD. 2014. Now at Samsung Corp."
 header:
   teaser: /assets/images/phamluan.jpg
 author: Pham Van Luan
@@ -11,20 +11,15 @@ categories:
 <div class="container">
   <div id="timeline">
     <div class="timelineitem">
-     <div class="tdate">Spring 2014-</div>
+     <div class="tdate">Spring 2014-?</div>
       <div class="ttitle">Kyunghee University: PhD's Degree</div>
-      <div class="tdesc">Machine Learning, Reinforcement Learning, Deep Reinforcement Learning.</div>
+      <div class="tdesc">Environment Technology.</div>
     </div>
     <div class="timelineitem">
-     <div class="tdate">2013-2014</div>
-      <div class="ttitle"><a href="http://www.kms-technology.com/">KMS Technology</a>: Software Engineer</div>
-      <div class="tdesc">I developed some cool iOS and Android applications.</div>
-    </div>
-    <div class="timelineitem">
-      <div class="tdate">2008-2013
+      <div class="tdate">2009-2014
       </div>
-      <div class="ttitle">Ho Chi Minh City University of Technology: Bachelor's Degree</div>
-      <div class="tdesc">Major in Computer Science.</div>
+      <div class="ttitle">Hung Yen University: Bachelor's Degree</div>
+      <div class="tdesc">Major in Environmental Technology.</div>
     </div>
   </div>
 </div>

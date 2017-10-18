@@ -1,7 +1,7 @@
 # Authors
 
 Le Pham Tuyen:
-  name             : Le Pham Tuyen
+  name             : Lê Phạm Tuyên
   avatar           : "/assets/images/tuyenple.jpg"
   bio              : "A PhD Student"
   location         : "Suwon, South Korea"
@@ -10,10 +10,17 @@ Le Pham Tuyen:
   facebook         : "lephamtuyen"
 
 Pham Van Luan:
-  name             : Pham Van Luan
+  name             : Phạm Văn Luân
   avatar           : "/assets/images/phamluan.jpg"
   bio              : "A PhD Student"
   location         : "Suwon, South Korea"
   email            : "tuyenple@khu.ac.kr"
   uri              : "http://tuyenple.com"
   facebook         : "lephamtuyen"
+
+Networking Lab:
+  # name             : Networking Lab
+  avatar           : "https://c1.staticflickr.com/5/4456/37769080761_4c79b59370_b.jpg"
+  bio              : "Networking Lab"
+  location         : "Suwon, South Korea"
+  uri              : "http://networking.khu.ac.kr/"

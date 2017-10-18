@@ -1,7 +1,7 @@
 # main links links
 main:
-  - title: "Home"
-    url: /
+  - title: "Labs"
+    url: /labs/
   - title: "Alumni"
     url: /alumni/
   - title: "Fields"

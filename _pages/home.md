@@ -1,5 +1,5 @@
 ---
-title: "VN-KHU Students"
+title: "VN-KHU's Alumni"
 layout: splash
 permalink: /
 header:
@@ -9,5 +9,5 @@ header:
   cta_label: "<i class='fa fa-hand-o-right'></i> Explore"
   cta_url: "/alumni/"
   caption:
-excerpt: 'Nơi tổng hợp thông tin của những sinh viên đã từng sinh sống và học tập tại Kyung Hee Univerrsity.<br/><br/><br/><br/><br/>'
+excerpt: 'Nơi tổng hợp thông tin sinh viên đã từng học tập tại Kyung Hee Suwon.<br/><br/><br/><br/><br/>'
 ---
