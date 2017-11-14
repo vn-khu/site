@@ -18,6 +18,21 @@ Pham Van Luan:
   uri              : "http://tuyenple.com"
   facebook         : "lephamtuyen"
 
+Ly Hoang Vu:
+  name             : Lý Hoàng Vũ
+  avatar           : "/assets/images/lyhoangvu.jpg"
+  bio              : "Researcher, Kangwon National Univ"
+  location         : "Kangwon, South Korea"
+  email            : "lyhoangvu87@gmail.com"
+
+Mai Khanh Binh:
+  name             : Mai Khánh Bình
+  avatar           : "/assets/images/maikhanhbinh.jpeg"
+  bio              : "Researcher, Stockholm University"
+  location         : "Stockholm, Sweden"
+  email            : "khanhbinh183@yahoo.com"
+  uri              : "https://sites.google.com/site/khanhbinh183/home"
+
 Networking Lab:
   # name             : Networking Lab
   avatar           : "https://c1.staticflickr.com/5/4456/37769080761_4c79b59370_b.jpg"

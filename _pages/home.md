@@ -10,4 +10,7 @@ header:
   cta_url: "/alumni/"
   caption:
 excerpt: 'Nơi tổng hợp thông tin sinh viên đã từng học tập tại Kyung Hee Suwon.<br/><br/><br/><br/><br/>'
+intro: 
+  - excerpt: 'Link thu thập thông tin alumni <a href="https://goo.gl/forms/QbFQyGCiEUDbveY42">tại đây.</a>'
 ---
+{% include feature_row id="intro" type="center" %}
