@@ -1,6 +1,6 @@
 ---
 title: "Lý Hoàng Vũ"
-excerpt: "Ms&PhD Combined. 2010. Now at Kangwon National Univ."
+excerpt: "Ms&PhD Combined, 2010. Now at Kangwon National Univ."
 header:
   teaser: /assets/images/lyhoangvu.jpg
 author: Ly Hoang Vu
