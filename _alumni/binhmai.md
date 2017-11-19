@@ -1,6 +1,6 @@
 ---
 title: "Mai Khánh Bình"
-excerpt: "Ms&PhD Combined, 2011. Now at Stockholm Univ."
+excerpt: "Ms&PhD Combined, 2011. Now Reseacher at Stockholm Univ."
 header:
   teaser: /assets/images/maikhanhbinh.jpeg
 author: Mai Khanh Binh

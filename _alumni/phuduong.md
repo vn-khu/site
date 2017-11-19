@@ -1,6 +1,6 @@
 ---
 title: "Dương Thị Mỹ Phú"
-excerpt: "Ms, 2007. Now at Blue Mountain Quality Resources Inc, US"
+excerpt: "Ms, 2007. Now at BMQR Inc, US"
 header:
   teaser: /assets/images/duongphu.jpg
 author: Duong Phu

@@ -31,6 +31,20 @@ Pham Van Luan:
   location         : "Suwon, South Korea"
   email            : "tuyenple@khu.ac.kr"
 
+Hien Lai:
+  name             : Lại Ngọc Duy Hiển
+  avatar           : "/assets/images/hienlai.jpg"
+  # bio              : "A PhD Student"
+  location         : "HCM City, Vietnam"
+  email            : "duyhien@khu.ac.kr"
+
+Hien Ngo:
+  name             : Ngô Thị Thanh Hiền
+  avatar           : "/assets/images/hienngo.jpg"
+  bio              : "A PhD Student"
+  location         : "Suwon, Korea"
+  email            : "Hienntt211@gmail.com"
+
 Le Dinh Phong:
   name             : Lê Đình Phong
   avatar           : "/assets/images/ledinhphong.jpg"
