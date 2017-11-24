@@ -9,6 +9,15 @@ Le Pham Tuyen:
   uri              : "http://tuyenple.com"
   facebook         : "lephamtuyen"
 
+Huynh Tan Bao:
+  name             : Huỳnh Tấn Bảo
+  avatar           : "/assets/images/baohuynh.jpg"
+  # bio              : "A PhD Student"
+  location         : "USA"
+  email            : "baohuynhus@gmail.com"
+  # uri              : "http://tuyenple.com"
+  # facebook         : "lephamtuyen"
+
 Duong Phu:
   name             : Dương Thị Mỹ Phú
   avatar           : "/assets/images/duongphu.jpg"
@@ -75,3 +84,52 @@ Networking Lab:
   bio              : "Networking Lab"
   location         : "Suwon, South Korea"
   uri              : "http://networking.khu.ac.kr/"
+
+Wins Lab:
+  # name             : Networking Lab
+  avatar           : "/assets/images/winslab.jpg"
+  bio              : "Wins Lab"
+  location         : "Suwon, South Korea"
+  uri              : "http://web.khu.ac.kr/~jwlee/"
+
+UC Lab:
+  # name             : Networking Lab
+  avatar           : "/assets/images/uclab.jpg"
+  bio              : "UC Lab"
+  location         : "Suwon, South Korea"
+  uri              : "http://uclab.khu.ac.kr/"
+
+ICNS Lab:
+  # name             : Networking Lab
+  avatar           : "/assets/images/icns.jpg"
+  bio              : "ICNS Lab"
+  location         : "Suwon, South Korea"
+  uri              : "http://www.icnslab.net/"
+
+ENV Lab:
+  # name             : Networking Lab
+  avatar           : "/assets/images/envlab.jpg"
+  bio              : "ICNS Lab"
+  location         : "Suwon, South Korea"
+  uri              : "http://www.icnslab.net/"
+
+PLAN Lab:
+  # name             : Networking Lab
+  avatar           : "/assets/images/planlab.jpg"
+  bio              : "Plant Functional Genomics"
+  location         : "Suwon, South Korea"
+  uri              : "http://khugene.com/pfg/"
+
+NANO Lab:
+  # name             : Networking Lab
+  avatar           : "/assets/images/nanolab.jpg"
+  bio              : "Nano Material Lab"
+  location         : "Suwon, South Korea"
+  uri              : "http://nml.khu.ac.kr/main.php"
+
+HFCS Lab:
+  # name             : Networking Lab
+  avatar           : "/assets/images/hfcs_prof.jpg"
+  bio              : "High Frequency Circuits & Systems Lab"
+  location         : "Suwon, South Korea"
+  uri              : "http://hicnslab.khu.ac.kr/"  
