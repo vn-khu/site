@@ -94,7 +94,7 @@ Wins Lab:
 
 UC Lab:
   # name             : Networking Lab
-  avatar           : "/assets/images/uclab.jpg"
+  avatar           : "https://c1.staticflickr.com/5/4519/38614023771_f7ae6ffa47_b.jpg"
   bio              : "UC Lab"
   location         : "Suwon, South Korea"
   uri              : "http://uclab.khu.ac.kr/"
@@ -129,7 +129,7 @@ NANO Lab:
 
 HFCS Lab:
   # name             : Networking Lab
-  avatar           : "/assets/images/hfcs_prof.jpg"
+  avatar           : "https://c1.staticflickr.com/5/4526/37896629784_758e522576_h.jpg"
   bio              : "High Frequency Circuits & Systems Lab"
   location         : "Suwon, South Korea"
   uri              : "http://hicnslab.khu.ac.kr/"  

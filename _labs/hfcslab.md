@@ -2,14 +2,14 @@
 title: "High Frequency Circuits & Systems Lab"
 excerpt: "Department of Electronic and Information Engineering"
 header:
-  teaser: /assets/images/hfcs_prof.jpg
+  teaser: https://c1.staticflickr.com/5/4526/37896629784_758e522576_h.jpg
   <!-- image: /assets/images/hfcs_prof.jpg -->
 author: HFCS Lab
 categories:
   - Electronic
 ---
 <tbody><tr>
-        <th width="536" height="237" scope="col"><div align="left"><img src="/assets/images/hfcs_prof.jpg" width="420" height="290"></div></th>
+        <th width="536" height="237" scope="col"><div align="left"><img src="https://c1.staticflickr.com/5/4526/37896629784_758e522576_h.jpg" width="420" height="290"></div></th>
         <td width="456" align="left" valign="bottom" scope="col">&nbsp;</td>
       </tr>
       <tr>

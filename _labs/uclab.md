@@ -2,8 +2,8 @@
 title: "UC Lab"
 excerpt: "Department of Computer Science and Engineering"
 header:
-  teaser: /assets/images/uclab.jpg
-  image: /assets/images/uclab.jpg
+  teaser: https://c1.staticflickr.com/5/4519/38614023771_f7ae6ffa47_b.jpg
+  image: https://c1.staticflickr.com/5/4519/38614023771_f7ae6ffa47_b.jpg
 author: UC Lab
 categories:
   - Computer
