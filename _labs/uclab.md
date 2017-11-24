@@ -15,7 +15,7 @@ categories:
 
           <td align="left" valign="top" width="65%">
 
-            <img src="images/prof_name.gif"><br><br>
+            <br><br>
             <div class="prof_detail">
             <a href="http://ce.khu.ac.kr" target="_blank">Department of Computer Engineering,</a><br>
             <a href="http://eni.khu.ac.kr" target="_blank">College of Electonics and Information,</a><br>
@@ -26,35 +26,34 @@ categories:
             <font size="4">Contact Informations</font><br>
             <table border="0" cellpadding="0" cellspacing="2">
             <tbody><tr>
-              <td height="1" background="images/h-l.gif" colspan="2"></td>
+              <td height="1" colspan="2"></td>
             </tr>
             <tr>
               <td class="contact_info">Address</td>
               <td>446-701, Room 313, Dept. of Computer Engineering <br>Kyung Hee University, Seocheon-dong, Giheung-gu<br> Yongin-si, Gyeonggi-do, Korea</td>
             </tr>
             <tr>
-              <td height="1" background="images/h-l.gif" colspan="2"></td>
+              <td height="1" colspan="2"></td>
             </tr>
             <tr>
               <td class="contact_info">E-mail</td>
-              <td><img src="images/prof_sylee.png"><br></td>
             </tr>
             <tr>
-              <td height="1" background="images/h-l.gif" colspan="2"></td>
+              <td height="1" colspan="2"></td>
             </tr>
             <tr>
               <td class="contact_info">Office</td>
               <td>+82-31-201-2514(Phone)<br>+82-31-202-2520(Fax)</td>             
             </tr>
             <tr>
-              <td height="1" background="images/h-l.gif" colspan="2"></td>
+              <td height="1" colspan="2"></td>
             </tr>
             <tr>
               <td class="contact_info">Cell</td>
               <td>+82-10-7345-1441</td>
             </tr>
             <tr>
-              <td height="1" background="images/h-l.gif" colspan="2"></td>
+              <td height="1" colspan="2"></td>
             </tr>
             </tbody></table>
 
